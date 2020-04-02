@@ -1,0 +1,9 @@
+{
+    "input_ways":"ways",
+    "input_nodes":"nodes",
+    "output_ways":"topo_ways",
+    "output_nodes":"topo_nodes",
+    "output_waysnodes":"topo_waysnodes",
+    "coordinates_resolution": 6,
+    "coordinates_prime":8005121
+}
