@@ -10,7 +10,7 @@ pycparser==2.18
 PyGreSQL==5.0.6
 pyOpenSSL==18.0.0
 PySocks==1.6.8
-requests==2.19.1
+requests==2.23.0
 ruamel-yaml==0.15.46
 six==1.11.0
-urllib3==1.23
+urllib3==1.25.8
